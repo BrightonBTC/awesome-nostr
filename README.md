@@ -66,7 +66,7 @@ them:
 - [coracle](https://github.com/staab/coracle) - A nostr web client
 - [nostrweb](https://git.qcode.ch/nostr/nostrweb) - another nostr web client in vanilla JS
   - [nostr.ch](https://nostr.ch/) - live instance
-- [Bija](https://github.com/BrightonBTC/bija) - A desktop client written in python. Currently Linux only
+- [Bija](https://github.com/BrightonBTC/bija) - Runs a client on a local flask (Python) server with in-browser UI. Linux only at present.
 - [Nosky](https://github.com/KotlinGeekDev/Nosky) - A native Android client for Nostr. Still in development
 - [Stackerstan](https://stackerstan.org) - A decentralised organisation built on Bitcoin and Nostr, implemented as a replicated state machine in Golang
 - [nostr-java](https://github.com/tcheeric/nostr-java) - A nostr client API written in java, for generating, signing and publishing events to relays
